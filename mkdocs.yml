@@ -1,0 +1,26 @@
+site_name: Meow.js
+site_url: https://meow-js.github.io
+repo_url: https://github.com/meow-js/meow.js
+repo_name: meow-js/meow.js
+theme:
+  name: material 
+  logo: https://avatars.githubusercontent.com/u/86623122
+  favicon: https://avatars.githubusercontent.com/u/86623122
+
+  palette:
+    primary: deep orange
+  features:
+    - navigation.instant
+    - navigation.tabs
+    
+  icon:
+    repo: fontawesome/brands/github
+    
+
+plugins:
+  - search
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/meow-js/meow.js
