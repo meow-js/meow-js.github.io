@@ -1,6 +1,7 @@
 # Meow.js
 A way to communicate with the Scratch API.
 
+NOTE: **All** functions are async.
 
 ## Install
 This module is for [`Node.js`](https://nodejs.org/).

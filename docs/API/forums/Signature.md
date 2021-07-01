@@ -1,10 +1,10 @@
-# `Signature`
+# Signature
 
 The signature object.
 
 ## Functions
 
-### `Signature.update(body)`
+### `update(body)`
 Updates the signature with the given bbcode (the `body` parameter).
 
 | Parameter  | type    | Description                                       |
@@ -13,8 +13,8 @@ Updates the signature with the given bbcode (the `body` parameter).
 
 ## Properties
 
-### `Signature.signatureHTML`
+### `signatureHTML`
 The HTML of the signature.
 
-### `Signature.signature`
+### `signature`
 The BBCode of the signature.

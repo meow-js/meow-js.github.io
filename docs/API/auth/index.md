@@ -15,29 +15,29 @@ session.login().then(async () => {
 ```
 
 ## Functions
-### `ScratchSession.login()`
+### `login()`
 Logs the object into scratch.
 
-### `ScratchSession.getPost(id)`
+### `getPost(id)`
 Gets a [Forum Post](../forums/Post).
 
 | Parameter  | type    | Description         |
 | :--------- | :-----: | ------------------: |
 |  id        | number  | The post id.        |
 
-### `ScratchSession.getTopic(id)`
+### `getTopic(id)`
 Gets a [Topic](../forums/Topic).
 
 | Parameter  | type    | Description         |
 | :--------- | :-----: | ------------------: |
 |  id        | number  | The topic id.       |
 
-### `ScratchSession.getForum(id)`
+### `getForum(id)`
 Gets a [Forum](../forums/Forum).
 
 | Parameter  | type    | Description         |
 | :--------- | :-----: | ------------------: |
 |  id        | number  | The forum id.       |
 
-### `ScratchSession.getSignature()`
+### `getSignature()`
 Gets the currently logged in user's [Signature](../forums/Signature).
