@@ -1,3 +1,6 @@
+---
+title: Home
+---
 # Meow.js
 A way to communicate with the Scratch API.
 
